@@ -5,7 +5,7 @@ This project demonstrates a complete SQL pipeline for cleaning, transforming, an
 ## Project Structure
 
 - `Analysis_using_SQL.md` — Step-by-step SQL queries and explanations
-- `order.csv` — Main retail order data
+- `store.csv` — Main retail order data
 - `People.csv` — Regional managers data
 - `Returns.csv` — Returned orders data
 - `schema.png` — Database schema diagram
